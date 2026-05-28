@@ -1,8 +1,8 @@
-# flutter project
 
-A new Flutter project created with FlutLab - https://flutlab.io
+# Recipe Finder 🍽️
 
-## Getting Started
+A Flutter app for searching recipes by meal name.
+Built using the TheMealDB API.## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
